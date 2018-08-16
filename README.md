@@ -5,3 +5,7 @@
 ```
 $ sudo apt-get install python-matplotlib
 ```
+## Installing Pygal
+```
+$ pip install --user pygal
+```
