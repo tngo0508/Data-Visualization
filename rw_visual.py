@@ -8,7 +8,10 @@ while True:
     # Make a randome walk, and plot the points.
     rw = RandomWalk()
     rw.fill_walk()
-    plt.scatter(rw.x_values, rw.y_values, s=15)
+
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues,
+                edgecolor='none', s=15)
     plt.show()
 
     KEEP_RUNNING = raw_input("Make another walk?(y/n): ")
