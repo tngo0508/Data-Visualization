@@ -12,6 +12,8 @@ $ pip install --user pygal
 ## Demo
 ### _matplotlib_
 ![squares_plot](https://github.com/tngo0508/Data-Visualization/blob/master/squares_plot.png)
+![random_walk](https://github.com/tngo0508/Data-Visualization/blob/master/Figure_1.png)
 
 ### _PyGal_
-![squares_plot](https://github.com/tngo0508/Data-Visualization/blob/master/dice_visual.svg)
+![dice_visual](https://github.com/tngo0508/Data-Visualization/blob/master/dice_visual.svg)
+![die_visual](https://github.com/tngo0508/Data-Visualization/blob/master/die_visual.svg)
