@@ -10,7 +10,8 @@ $ sudo apt-get install python-matplotlib
 $ pip install --user pygal
 ```
 ## Demo
-_matplotlib_
+- _matplotlib_
 ![squares_plot](https://github.com/tngo0508/Data-Visualization/blob/master/squares_plot.png)
-_PyGal_
+
+- _PyGal_
 ![squares_plot](https://github.com/tngo0508/Data-Visualization/blob/master/dice_visual.svg)
