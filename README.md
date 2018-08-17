@@ -17,4 +17,5 @@ $ pip install --user pygal
 ### _PyGal_
 ![dice_visual](https://github.com/tngo0508/Data-Visualization/blob/master/dice_visual.svg)
 ![die_visual](https://github.com/tngo0508/Data-Visualization/blob/master/die_visual.svg)
-![world_map](https://github.com/tngo0508/Data-Visualization/blob/master/world_population.svg)
+![na_map](https://github.com/tngo0508/Data-Visualization/blob/master/americas.svg)
+![complete_map](https://github.com/tngo0508/Data-Visualization/blob/master/world_population.svg)
