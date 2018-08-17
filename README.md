@@ -8,6 +8,7 @@ $ sudo apt-get install python-matplotlib
 ## Installing Pygal
 ```
 $ pip install --user pygal
+$ pip install pygal_maps_world
 ```
 ## Demo
 ### _matplotlib_
