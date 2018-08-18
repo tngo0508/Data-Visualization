@@ -10,6 +10,10 @@ $ sudo apt-get install python-matplotlib
 $ pip install --user pygal
 $ pip install pygal_maps_world
 ```
+## Installing Requests
+```
+$ pip install --user requests
+```
 ## Demo
 ### _matplotlib_
 ![squares_plot](https://github.com/tngo0508/Data-Visualization/blob/master/images/squares_plot.png)
