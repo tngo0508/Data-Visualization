@@ -13,13 +13,11 @@ print("Total repositories:", response_dict['total_count'])
 repo_dicts = response_dict['items']
 print("repositories returned:", len(repo_dicts))
 
-# Examine the first repository.
-repo_dict = repo_dicts[0]
-
-print "\nSelected information about first repository:"
-print 'Name:', repo_dict['name']
-print 'Owner:', repo_dict['owner']['login']
-print 'Stars:', repo_dict['stargazers_count']
-print 'Repository:', repo_dict['created_at']
-print 'Created:', repo_dict['updated_at']
-print 'Description:', repo_dict['description']
+for repo_dict in repo_dicts:
+    print "\nSelected information about each repository:"
+    print 'Name:', repo_dict['name']
+    print 'Owner:', repo_dict['owner']['login']
+    print 'Stars:', repo_dict['stargazers_count']
+    print 'Repository:', repo_dict['created_at']
+    print 'Created:', repo_dict['updated_at']
+    print 'Description:', repo_dict['description']
