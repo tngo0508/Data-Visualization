@@ -18,5 +18,5 @@ $ pip install pygal_maps_world
 ### _PyGal_
 ![dice_visual](https://github.com/tngo0508/Data-Visualization/blob/master/dice_visual.svg)
 ![die_visual](https://github.com/tngo0508/Data-Visualization/blob/master/die_visual.svg)
-![na_map](https://github.com/tngo0508/Data-Visualization/blob/master/americas.svg)
-![complete_map](https://github.com/tngo0508/Data-Visualization/blob/master/world_population.svg)
+![na_pop](https://github.com/tngo0508/Data-Visualization/blob/master/americas.svg)
+![world_pop](https://github.com/tngo0508/Data-Visualization/blob/master/world_population.svg)
